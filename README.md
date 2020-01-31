@@ -1,2 +1,1 @@
 # test-wip-app
-yum

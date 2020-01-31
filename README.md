@@ -1,2 +1,0 @@
-# test-wip-app
-testz
